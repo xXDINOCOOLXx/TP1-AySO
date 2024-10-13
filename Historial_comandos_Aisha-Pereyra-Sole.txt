@@ -1,0 +1,269 @@
+hostnamectl --help
+hostnamectl status
+hostnamectl hostname
+localetcl --help
+localectl --help
+vagrant halt
+hall
+halt
+vagrant halt
+vagrant status
+vagrant up
+vagrant halt
+off
+pwd
+../
+pwd
+cmd ../
+vagrant halt
+halt
+pwd
+vagrant suspend
+ssh-keygen
+ls-l
+ls-a
+ls -a
+ls -la
+cd .ssh/
+ls -la
+cat id_rsa.pub
+cd
+pwd
+sudo apt install git
+git --version
+man cp
+git clone git@github.com:xXDINOCOOLXx/TP1-AySO.git
+git clone https://github.com/xXDINOCOOLXx/TP1-AySO.git
+pwd
+git clone https://github.com/xXDINOCOOLXx/TP1-AySO.git
+cmd TP1-AySO/
+cd TP1-AySO/
+ls -la
+cd ..
+cp README TP1-AySO/
+cd TP1-AySO/
+LS -LA
+ls -la
+ls
+git status
+git add .README
+git add.README
+git add README
+ls
+git status
+git diff --cached
+git diff --cached --name-only
+git commit -m "Estoy haciendo un comentario de lo que estoy por subir"
+git config --global user.name xXDINOCOOLXx
+git push
+git commit
+pwd
+ñs -la
+ls la
+ls -la
+git diff --cached --name-only
+git commit -m "Estoy haciendo un comentario de lo que estoy por subir"
+git status
+git push -u origin main
+git remote
+git brunch
+git branch
+git push -u origin master
+pwd
+cd ../
+mkdir repogit
+ls
+cd vagrant/
+mkdir repogit
+ls
+cd repogit/
+git clone git@github.com:xXDINOCOOLXx/TP1-AySO.git
+ls
+cd TP1-AySO/
+pwd
+ls -la
+cat /etc/os-release
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i  home_url /etc/os-release
+whoami
+id -un
+echo "Usuario=$(whoami)">datos_usuario.txt
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls
+cat datos_usuario.txt 
+git add .
+git config --global user.email "aishapereyrasole@gmail.com"
+git commit -m "ADD: agregando 1er ejercicio sobre datos_usuarios.txt"
+git status
+ls
+cd ../
+ls
+cd ../
+ls
+cd ../
+ls
+cd ../
+ls
+cd proc/
+grep -i  "model name"
+ls
+grep -i  "model name" cpuinfo 
+grep -i  "model name" cpuinfo tail -n1
+grep -i  "model name" cpuinfo 
+grep -i  "model name" cpuinfo | tail -n1
+pwd
+cd ../
+pwd
+ls
+cd home/
+ls
+cd vagrant/
+ls
+cd repogit/
+ls
+cd TP1-AySO/
+ls
+cat datos_usuario.txt 
+cd ../../../../../../../
+ls
+cd ../../
+ls
+cd proc/
+grep -i "model name" cpuinfo | tail -n1 >> ../home/vagrant/repogit/TP1-AySO/datos_usuario.txt
+cd ../home/vagrant/repogit/TP1-AySO
+cat datos_usuario.txt 
+git add datos_usuario.txt 
+git commit -m "feta: Añadiendo información de CPU"
+cd $HOME
+ls
+cd $ROOT
+ls
+cd $root
+ls
+cd /
+ls
+cd etc
+ls
+cd passwd
+man sort
+cat passwd
+man grep
+grep -v nologin passwd
+man head
+grep -v nologin /etc/passwd  | head | head
+man sort
+grep -v nologin /etc/passwd  | head | sort -k 7
+grep -v nologin /etc/passwd  | head | sort -k 1
+grep -v nologin /etc/passwd  | head | sort -k 2
+grep -v nologin /etc/passwd  | head | sort -k 3
+grep -v nologin /etc/passwd  | head | sort -k 7
+grep -v nologin /etc/passwd  | head | sort -k 1
+ls
+cd ../
+ls
+/
+cd /
+ls
+cd home/
+ls
+cd vagrant/
+ls
+cd repogit/
+ls
+cd TP1-AySO/
+git status
+ls
+grep -v nologin /etc/passwd  | head | sort -k 7 > lista_ordenada
+ls
+cat lista_ordenada 
+add lista_ordenada
+git add lista_ordenada
+git commit -m "ADD: Listado de usuarios ordenada"
+man tcpdump
+man cat
+cat "tcpdump" > comando_dump_net
+cat "tcpdump" comando_dump_net
+echo "tcpdump" > comando_dump_net
+cat comando_dump_net 
+echo "man tcpdump" >> comando_dump_net
+cat comando_dump_net 
+git add comando_dump_net 
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+git status
+cd ../
+ls
+cd ../
+ls
+cat README 
+echo "<<BLOCK" > heredoc
+echo "Alumno: Aisha Pereyra Sole" >> heredoc
+echo "División: esta" >> heredoc
+echo "Turno: mañana">> heredoc
+echo "BLOCK" >> heredoc
+ls
+cat heredoc
+echo <<BLOCK
+Alumna: Aisha Pereyra Sole
+División: 111
+Turno: mañana
+BLOCK
+
+ls
+cat heredoc
+pwd
+tr <<BLOCK
+echo
+
+tr <<BLOCK
+echo 123
+BLOCK
+
+tr man
+man tr
+cat <<BLOCK heredoc
+123
+456
+BLOCK
+
+echo <<BLOCK >> heredoc
+123
+456
+BLOCK
+
+cat heredoc 
+echo "<<BLOCK" > heredoc
+echo "Alumno: Aisha Pereyra Sole" >> heredoc
+echo "División: esta" >> heredoc
+echo "Turno: mañana">> heredoc
+cat "<<BLOCK" > heredoc
+cat <<BLOCK > heredoc
+123
+456
+BLOCK
+
+cat heredoc 
+cat <<BLOCK >> heredoc 
+789
+nooo
+BLOCK
+
+cat heredoc 
+ls
+man rm
+rm heredoc 
+ls
+cd repogit/
+ls
+cd TP1-AySO/
+ls
+cat <<BLOCK >> README 
+Alumna: Aisha Pereya Sole
+División: 111
+Turno: mañana
+BLOCK
+
+git add README
+cat README 
+git commit -m "Feta: datos del alumno"
+history -a
